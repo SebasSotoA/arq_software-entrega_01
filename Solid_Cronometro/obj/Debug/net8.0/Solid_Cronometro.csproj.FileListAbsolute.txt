@@ -1,0 +1,15 @@
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/bin/Debug/net8.0/Solid_Cronometro
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/bin/Debug/net8.0/Solid_Cronometro.deps.json
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/bin/Debug/net8.0/Solid_Cronometro.runtimeconfig.json
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/bin/Debug/net8.0/Solid_Cronometro.dll
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/bin/Debug/net8.0/Solid_Cronometro.pdb
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.AssemblyInfoInputs.cache
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.AssemblyInfo.cs
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.csproj.CoreCompileInputs.cache
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.sourcelink.json
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.dll
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/refint/Solid_Cronometro.dll
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.pdb
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/Solid_Cronometro.genruntimeconfig.cache
+/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/Debug/net8.0/ref/Solid_Cronometro.dll

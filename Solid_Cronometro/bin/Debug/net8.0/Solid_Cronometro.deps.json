@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Solid_Cronometro/1.0.0": {
+        "runtime": {
+          "Solid_Cronometro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solid_Cronometro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
