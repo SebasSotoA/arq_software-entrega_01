@@ -16,7 +16,7 @@ namespace Solid_Cronometro.Clases
         protected string color;
         protected IValidaVehiculo validador_vehiculo;
         protected SistemaRuedas sistemaRuedas;
-        protected IValidaRuedas validadorRuedas;
+        protected IValidaRuedas validador_ruedas;
 
         public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, SistemaRuedas sistemaRuedas, IValidaRuedas validador_ruedas)
         {

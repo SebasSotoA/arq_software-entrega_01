@@ -1,4 +1,5 @@
-namespace Solid_Cronometro.Interfaces{
+namespace Solid_Cronometro.Interfaces
+{
     internal interface IObtenerConductor
     {
         string GetNombre();
