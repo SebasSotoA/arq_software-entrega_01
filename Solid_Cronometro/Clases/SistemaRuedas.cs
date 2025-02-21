@@ -12,7 +12,7 @@ namespace Solid_Cronometro.Clases
         public SistemaRuedas(IValidaRuedas validador_ruedas)
         {
             this.validador_ruedas = validador_ruedas;
-            presionRuedas = [0, 0, 0, 0];
+            this.presionRuedas = [0, 0, 0, 0];
         }
 
         public List<float> PresionRuedas
