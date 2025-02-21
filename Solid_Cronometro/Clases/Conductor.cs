@@ -21,15 +21,15 @@ namespace Solid_Cronometro.Clases
         }
         
         public string Nombre 
-        { get => nombre; set => validador_conductor.ValidarNombre(value) ? value : throw new Exception("Nombre inválido."); }
+        { get => nombre; set => nombre = validador_conductor.ValidarNombre(value) ? value : throw new Exception("Nombre inválido."); }
         public byte Edad 
-        { get => edad; set => validador_conductor.ValidarEdad(value) ? value : throw new Exception("Edad inválida."); }
+        { get => edad; set => edad = validador_conductor.ValidarEdad(value) ? value : throw new Exception("Edad inválida."); }
         public string Cedula 
-        { get => cedula; set => validador_conductor.ValidarCedula(value) ? value : throw new Exception("Cedula inválida."); }
+        { get => cedula; set => cedula = validador_conductor.ValidarCedula(value) ? value : throw new Exception("Cedula inválida."); }
         public string Licencia 
-        { get => licencia; set => validador_conductor.ValidarLicencia(value) ? value : throw new Exception("Licencia inválida."); }
+        { get => licencia; set => licencia = validador_conductor.ValidarLicencia(value) ? value : throw new Exception("Licencia inválida."); }
         public bool Seguro
-        { get => seguro; set => validador_conductor.ValidarSeguro(value) ? value : throw new Exception("Conductor no tiene seguro."); }
+        { get => seguro; set => seguro = validador_conductor.ValidarSeguro(value) ? value : throw new Exception("Conductor no tiene seguro."); }
 
         public string GetNombre() => Nombre;
         public byte GetEdad() => Edad;

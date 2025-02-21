@@ -18,8 +18,8 @@ namespace Solid_Cronometro.Clases{
         public bool ValidarInicio(long inicio) => inicio >= 0;
         public bool ValidarFin(long fin) => fin <= 3600;
         // Validacion Vehiculo
-        public bool ValidarPlaca(string placa) => !(string.IsNullOrEmpty(placa) || string.IsNullOrWhiteSpace(placa) || placa.Length != 6 || placa.Substring(0, 2).ToCharArray().Any(c => !char.IsLetter(c)));      
-        public bool ValidarModelo(string modelo) => !(string.IsNullOrWhiteSpace(modelo) && modelo.Length >= RN_Automovil.long_mod_min); //Realmente importa para nuestro dominio de problema?
-        public bool ValidarMarca(string marca) => !(string.IsNullOrEmpty(marca) || string.IsNullOrWhiteSpace(marca) || marca.Length < RN_Automovil.long_marca_min); // Importa la marca para nuestro dominio de problema?
+        public bool ValidarPlaca(string placa) => !(string.IsNullOrEmpty(placa) || string.IsNullOrWhiteSpace(placa) || placa.Length != RNVehiculo.long_placa || placa.Substring(0, 2).ToCharArray().Any(c => !char.IsLetter(c)));      
+        public bool ValidarModelo(string modelo) => !(string.IsNullOrWhiteSpace(modelo) && modelo.Length >= RNVehiculo.long_mod_min);
+        public bool ValidarMarca(string marca) => !(string.IsNullOrEmpty(marca) || string.IsNullOrWhiteSpace(marca) || marca.Length < RNVehiculo.long_marca_min);
     }
 }

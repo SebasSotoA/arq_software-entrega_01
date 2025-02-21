@@ -4,8 +4,8 @@ namespace Solid_Cronometro.Clases
 {
     internal class cuatroRuedas : IValidaRuedas
     {
-        public bool validarRuedas(List<float> ruedas){
-            return ruedas == RNVehiculo.nro_ruedas_4;
+        public bool ValidarRuedas(List<float> ruedas){
+            return ruedas.Count == RNVehiculo.nro_ruedas_4;
         }
     }
 }
