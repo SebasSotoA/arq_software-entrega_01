@@ -3,7 +3,7 @@ namespace Solid_Cronometro.Interfaces{
     {
         bool ValidarNombre(string nombre);
         bool ValidarEdad(byte edad);
-        bool ValidarCedula(int cedula);
+        bool ValidarCedula(string cedula);
         bool ValidarLicencia(string licencia);
         bool ValidarSeguro(bool seguro);
     }
