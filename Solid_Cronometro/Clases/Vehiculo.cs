@@ -8,7 +8,7 @@ using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
 {
-    internal class Vehiculo
+    internal abstract class Vehiculo
     {
         protected string placa;
         protected string modelo;
