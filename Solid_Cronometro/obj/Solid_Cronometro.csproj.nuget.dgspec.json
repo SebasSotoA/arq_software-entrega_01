@@ -1,32 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingeniería de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Solid_Cronometro.csproj": {}
+    "/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/Solid_Cronometro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingeniería de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Solid_Cronometro.csproj": {
+    "/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/Solid_Cronometro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingeniería de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Solid_Cronometro.csproj",
+        "projectUniqueName": "/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/Solid_Cronometro.csproj",
         "projectName": "Solid_Cronometro",
-        "projectPath": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingeniería de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Solid_Cronometro.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingeniería de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\obj\\",
+        "projectPath": "/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/Solid_Cronometro.csproj",
+        "packagesPath": "/Users/fonsoo/.nuget/packages/",
+        "outputPath": "/Users/fonsoo/Documents/ing. sistemas 2025-1/arq. de software/02 - Principios SOLID/proyectoKart/arq_software-entrega_01/Solid_Cronometro/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/fonsoo/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,8 +37,7 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
