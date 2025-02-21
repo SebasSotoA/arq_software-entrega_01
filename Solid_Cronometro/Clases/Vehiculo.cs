@@ -8,7 +8,7 @@ using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
 {
-    internal abstract class Vehiculo
+    internal class Vehiculo : IObtenerVehiculo
     {
         protected string placa;
         protected string modelo;
@@ -30,15 +30,22 @@ namespace Solid_Cronometro.Clases
         }
 
         public string Placa
-        {}
+        { get => placa; set => placa = validador_vehiculo.ValidarPlaca(value) ? value : throw new Exception("Placa inválida."); }
         public string Modelo
-        {}
+        { get => modelo; set => modelo = validador_vehiculo.ValidarModelo(value) ? value : throw new Exception("Modelo inválido."); }
         public string Marca
-        {}
+        { get => marca; set => marca = validador_vehiculo.ValidarMarca(value) ? value : throw new Exception("Marca inválida."); }
         public string Color
-        {}
+        { get => color; set => color = value; }
 
-        public Dictionary<string, float> SistemaRuedas
-        {}   
+        public virtual Dictionary<string, float> SistemaRuedas
+        {get => sistemaRuedas; set => sistemaRuedas = value;}   
+
+        public string GetPlaca() => placa;
+        public string GetModelo() => modelo;
+        public string GetMarca() => marca;
+        public string GetColor() => color;
+        public virtual Dictionary<string, float> GetSistemaRuedas() => sistemaRuedas;
+
     }
 }
