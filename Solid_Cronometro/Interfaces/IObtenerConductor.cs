@@ -3,7 +3,7 @@ namespace Solid_Cronometro.Interfaces{
     {
         string GetNombre();
         byte GetEdad();
-        byte GetCedula();
+        string GetCedula();
         string GetLicencia();
         bool GetSeguro();
     }
