@@ -6,7 +6,7 @@ namespace Solid_Cronometro.Clases
         private string nombre;
         private byte edad;
         private string cedula;
-        private IValidaConductor validador_conductor;
+        private readonly IValidaConductor validador_conductor;
         private string licencia;
         private bool seguro;
 

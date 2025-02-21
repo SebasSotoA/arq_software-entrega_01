@@ -14,8 +14,8 @@ namespace Solid_Cronometro.Clases
         private long inicio;
         private long fin;
         private List<IVuelta> l_vueltas;
-        private IValidaTiempo validador_tiempo;
-        private IValidaID validador_id;
+        private readonly IValidaTiempo validador_tiempo;
+        private readonly IValidaID validador_id;
 
         public Carrera(int id, string name, long inicio, long fin, List<IVuelta> l_vueltas, IValidaTiempo validador_tiempo, IValidaID validador_id)
         {

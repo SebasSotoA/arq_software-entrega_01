@@ -14,9 +14,9 @@ namespace Solid_Cronometro.Clases
         protected string modelo;
         protected string marca;
         protected string color;
-        protected IValidaVehiculo validador_vehiculo;
+        protected readonly IValidaVehiculo validador_vehiculo;
         protected SistemaRuedas sistemaRuedas;
-        protected IValidaRuedas validador_ruedas;
+        protected readonly IValidaRuedas validador_ruedas;
 
         public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, List<float> presionesRuedas, IValidaRuedas validador_ruedas)
         {
@@ -47,6 +47,7 @@ namespace Solid_Cronometro.Clases
         public string GetMarca() => marca;
         public string GetColor() => color;
         public virtual SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
+
 
     }
 }
