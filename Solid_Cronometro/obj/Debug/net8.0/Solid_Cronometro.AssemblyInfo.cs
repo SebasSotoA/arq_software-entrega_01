@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Solid_Cronometro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5024a7b03428f55b7e16037fdb1aebb3cecee5e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3400fdafdd8b701b0250e318c19fac31b76f031d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Solid_Cronometro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Solid_Cronometro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
