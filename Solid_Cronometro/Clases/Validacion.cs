@@ -13,7 +13,7 @@ namespace Solid_Cronometro.Clases{
         // Validación ID
         public bool ValidarID(int id) => id > 0;
         // Validación Ruedas
-        public bool ValidarRuedas(List<float> ruedas) => ruedas.All(r => r >= RNVehiculo.min_presion_rueda && r <= RNVehiculo.max_presion_rueda);
+        public bool ValidarRuedas(List<float> ruedas) => ruedas is { Count: 4 } && ruedas.All(r => (r >= RNVehiculo.min_presion_rueda) && (r <= RNVehiculo.max_presion_rueda));
         // Validacion Tiempo
         public bool ValidarInicio(long inicio) => inicio >= 0;
         public bool ValidarFin(long fin) => fin <= 3600;

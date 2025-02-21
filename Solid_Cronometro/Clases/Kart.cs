@@ -7,8 +7,8 @@ namespace Solid_Cronometro.Clases
         protected string numero;
         protected bool turbo;
 
-        public Kart(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, SistemaRuedas sistemaRuedas, IValidaRuedas validador_ruedas, string numero, bool turbo)
-        :base(placa, modelo, marca, color, validador_vehiculo, sistemaRuedas, validador_ruedas)
+        public Kart(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, List<float> presionesRuedas, IValidaRuedas validador_ruedas, string numero, bool turbo)
+        :base(placa, modelo, marca, color, validador_vehiculo, presionesRuedas, validador_ruedas)
         {
             this.numero = numero;
             this.turbo = turbo;
@@ -18,8 +18,8 @@ namespace Solid_Cronometro.Clases
         {get => numero; set => numero = value;}
         public bool Turbo
         {get => turbo; set => turbo = value;}
-        public override Dictionary<string, float> SistemaRuedas
+        public override SistemaRuedas SistemaRuedas
         {get => sistemaRuedas; set => sistemaRuedas = value;} 
-        public override Dictionary<string, float> GetSistemaRuedas() => sistemaRuedas;
+        public override SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
     }
 }

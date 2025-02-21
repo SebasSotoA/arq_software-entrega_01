@@ -7,8 +7,8 @@ namespace Solid_Cronometro.Clases
         protected bool trac_4x4;
         protected bool suspension;
 
-        public Cuatrimoto(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, SistemaRuedas sistemaRuedas, IValidaRuedas validador_ruedas, bool trac_4x4, bool suspension)
-        :base(placa, modelo, marca, color, validador_vehiculo, sistemaRuedas, validador_ruedas)
+        public Cuatrimoto(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, List<float> presionesRuedas, IValidaRuedas validador_ruedas, bool trac_4x4, bool suspension)
+        :base(placa, modelo, marca, color, validador_vehiculo, presionesRuedas, validador_ruedas)
         {
             this.trac_4x4 = trac_4x4;
             this.suspension = suspension;
@@ -18,8 +18,8 @@ namespace Solid_Cronometro.Clases
         {get => trac_4x4; set => trac_4x4 = value;}
         public bool Suspension
         {get => suspension; set => suspension = value;}
-        public override Dictionary<string, float> SistemaRuedas
+        public override SistemaRuedas SistemaRuedas
         {get => sistemaRuedas; set => sistemaRuedas = value;} 
-        public override Dictionary<string, float> GetSistemaRuedas() => sistemaRuedas;
+        public override SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
     }
 }

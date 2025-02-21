@@ -18,15 +18,16 @@ namespace Solid_Cronometro.Clases
         protected SistemaRuedas sistemaRuedas;
         protected IValidaRuedas validador_ruedas;
 
-        public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, SistemaRuedas sistemaRuedas, IValidaRuedas validador_ruedas)
+        public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, List<float> presionesRuedas, IValidaRuedas validador_ruedas)
         {
             this.placa = placa;
             this.modelo = modelo;
             this.marca = marca;
             this.color = color;
             this.validador_vehiculo = validador_vehiculo;
-            this.sistemaRuedas = sistemaRuedas;
-            this.validadorRuedas = validador_ruedas;
+            this.sistemaRuedas = new SistemaRuedas(validador_ruedas); // Creamos un objeto sistemaRuedas, se inicializa como [0,0,0,0].
+            this.sistemaRuedas.PresionRuedas = presionesRuedas; // Añadimos las presiones por medio del setter, que tiene las validaciones implementadas.
+            this.validador_ruedas = validador_ruedas;
         }
 
         public string Placa
@@ -38,14 +39,14 @@ namespace Solid_Cronometro.Clases
         public string Color
         { get => color; set => color = value; }
 
-        public virtual Dictionary<string, float> SistemaRuedas
+        public virtual SistemaRuedas SistemaRuedas
         {get => sistemaRuedas; set => sistemaRuedas = value;}   
 
         public string GetPlaca() => placa;
         public string GetModelo() => modelo;
         public string GetMarca() => marca;
         public string GetColor() => color;
-        public virtual Dictionary<string, float> GetSistemaRuedas() => sistemaRuedas;
+        public virtual SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
 
     }
 }
