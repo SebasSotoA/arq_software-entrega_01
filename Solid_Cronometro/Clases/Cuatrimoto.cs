@@ -2,7 +2,7 @@ using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
 {
-    internal abstract class Cuatrimoto : Vehiculo
+    internal class Cuatrimoto : Vehiculo
     {
         protected bool trac_4x4;
         protected bool suspension;

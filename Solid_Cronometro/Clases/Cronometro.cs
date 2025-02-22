@@ -33,7 +33,7 @@ namespace Solid_Cronometro.Clases
             this.parcial = parcial;
         }
 
-        #region Métodos para Carrera
+        // Métodos para Carrera
         public void IniciarCarrera()
         {
             carrera.IniciarCarrera();
@@ -58,9 +58,9 @@ namespace Solid_Cronometro.Clases
         {
             return carrera.GetTiempoFinalFormateado();
         }
-        #endregion
+        
 
-        #region Métodos para Vuelta
+        // Métodos para Vuelta
         public void IniciarVuelta()
         {
             vuelta.IniciarVuelta();

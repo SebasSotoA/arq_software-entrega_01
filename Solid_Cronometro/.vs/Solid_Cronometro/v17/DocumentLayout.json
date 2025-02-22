@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\cronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,44 +15,44 @@
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\ivuelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\vuelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\vuelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\ivalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\ivalidavehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\tiempoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\tiempoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\ivalidaruedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\ivalidaruedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\iobtenervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\iobtenervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\iobtenerconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\iobtenerconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\cuatrimoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\cuatrimoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\enums\\categoriatipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:enums\\categoriatipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\vuelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\vuelta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\validacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\tiempoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\tiempoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\sistemaruedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +63,28 @@
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\rnvehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\rncronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\rncronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\rnconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\rnconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\kart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\cuatrimoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\cuatrimoto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\conductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +95,8 @@
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\itiempoparcial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\icarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\clases\\rncronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:clases\\rncronometro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\ivalidaconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\ivalidaconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\iobtenerconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\iobtenerconductor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\iobtenervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|solutionrelative:interfaces\\iobtenervehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E1F25097-EA6C-4A06-AFFB-03C08F9F358D}|Solid_Cronometro.csproj|c:\\users\\asus\\onedrive - upb\\desktop\\onedrive - upb\\vida\\ingenier\u00EDa de sistemas upb\\semestre 6\\arquitectura-de-software\\entregas\\arq_software-entrega_01\\solid_cronometro\\interfaces\\ivalidaid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,240 +122,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoriaTipo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Enums\\CategoriaTipo.cs",
-              "RelativeDocumentMoniker": "Enums\\CategoriaTipo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Enums\\CategoriaTipo.cs",
-              "RelativeToolTip": "Enums\\CategoriaTipo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IValidaVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaVehiculo.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IValidaVehiculo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaVehiculo.cs",
+              "RelativeToolTip": "Interfaces\\IValidaVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T03:49:30.468Z",
+              "WhenOpened": "2025-02-22T05:53:02.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "Clases\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vehiculo.cs",
-              "RelativeToolTip": "Clases\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IValidaRuedas.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaRuedas.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IValidaRuedas.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaRuedas.cs",
+              "RelativeToolTip": "Interfaces\\IValidaRuedas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:34:31.277Z",
+              "WhenOpened": "2025-02-22T05:50:59.24Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Cronometro.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cronometro.cs",
-              "RelativeDocumentMoniker": "Clases\\Cronometro.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cronometro.cs",
-              "RelativeToolTip": "Clases\\Cronometro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:06:29.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Vuelta.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vuelta.cs",
               "RelativeDocumentMoniker": "Clases\\Vuelta.cs",
               "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vuelta.cs",
               "RelativeToolTip": "Clases\\Vuelta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-21T18:52:51.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Carrera.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Carrera.cs",
-              "RelativeDocumentMoniker": "Clases\\Carrera.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Carrera.cs",
-              "RelativeToolTip": "Clases\\Carrera.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAA6wEYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CategoriaTipo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Enums\\CategoriaTipo.cs",
+              "RelativeDocumentMoniker": "Enums\\CategoriaTipo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Enums\\CategoriaTipo.cs",
+              "RelativeToolTip": "Enums\\CategoriaTipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:39:30.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Conductor.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Conductor.cs",
-              "RelativeDocumentMoniker": "Clases\\Conductor.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Conductor.cs",
-              "RelativeToolTip": "Clases\\Conductor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:35:55.352Z",
+              "WhenOpened": "2025-02-22T03:49:30.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Cuatrimoto.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cuatrimoto.cs",
-              "RelativeDocumentMoniker": "Clases\\Cuatrimoto.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cuatrimoto.cs",
-              "RelativeToolTip": "Clases\\Cuatrimoto.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-22T02:53:20.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Kart.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Kart.cs",
-              "RelativeDocumentMoniker": "Clases\\Kart.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Kart.cs",
-              "RelativeToolTip": "Clases\\Kart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:39:03.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TiempoParcial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\TiempoParcial.cs",
-              "RelativeDocumentMoniker": "Clases\\TiempoParcial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\TiempoParcial.cs",
-              "RelativeToolTip": "Clases\\TiempoParcial.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:11:47.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IVuelta.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IVuelta.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IVuelta.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IVuelta.cs",
-              "RelativeToolTip": "Interfaces\\IVuelta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:43:01.461Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:05:23.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Validacion.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Validacion.cs",
-              "RelativeDocumentMoniker": "Clases\\Validacion.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Validacion.cs",
-              "RelativeToolTip": "Clases\\Validacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:46:48.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "SistemaRuedas.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\SistemaRuedas.cs",
-              "RelativeDocumentMoniker": "Clases\\SistemaRuedas.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\SistemaRuedas.cs",
-              "RelativeToolTip": "Clases\\SistemaRuedas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T20:38:17.644Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RNVehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNVehiculo.cs",
-              "RelativeDocumentMoniker": "Clases\\RNVehiculo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNVehiculo.cs",
-              "RelativeToolTip": "Clases\\RNVehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:01:19.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RNConductor.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNConductor.cs",
-              "RelativeDocumentMoniker": "Clases\\RNConductor.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNConductor.cs",
-              "RelativeToolTip": "Clases\\RNConductor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T22:44:15.553Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Usings.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Usings.cs",
-              "RelativeDocumentMoniker": "Usings.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Usings.cs",
-              "RelativeToolTip": "Usings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:00:41.519Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ITiempoParcial.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\ITiempoParcial.cs",
-              "RelativeDocumentMoniker": "Interfaces\\ITiempoParcial.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\ITiempoParcial.cs",
-              "RelativeToolTip": "Interfaces\\ITiempoParcial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:11:26.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IValidaConductor.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaConductor.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IValidaConductor.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaConductor.cs",
-              "RelativeToolTip": "Interfaces\\IValidaConductor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T19:15:02.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "ICarrera.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\ICarrera.cs",
               "RelativeDocumentMoniker": "Interfaces\\ICarrera.cs",
@@ -360,19 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "RNCronometro.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNCronometro.cs",
-              "RelativeDocumentMoniker": "Clases\\RNCronometro.cs",
-              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNCronometro.cs",
-              "RelativeToolTip": "Clases\\RNCronometro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:46:37.856Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "IObtenerConductor.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IObtenerConductor.cs",
               "RelativeDocumentMoniker": "Interfaces\\IObtenerConductor.cs",
@@ -380,11 +195,90 @@
               "RelativeToolTip": "Interfaces\\IObtenerConductor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T18:46:18.636Z"
+              "WhenOpened": "2025-02-21T18:46:18.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 2,
+              "Title": "IVuelta.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IVuelta.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVuelta.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IVuelta.cs",
+              "RelativeToolTip": "Interfaces\\IVuelta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:43:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:05:23.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cronometro.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cronometro.cs",
+              "RelativeDocumentMoniker": "Clases\\Cronometro.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cronometro.cs",
+              "RelativeToolTip": "Clases\\Cronometro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAH4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:06:29.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Vehiculo.cs",
+              "RelativeToolTip": "Clases\\Vehiculo.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T01:34:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Validacion.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Validacion.cs",
+              "RelativeDocumentMoniker": "Clases\\Validacion.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Validacion.cs",
+              "RelativeToolTip": "Clases\\Validacion.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:46:48.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TiempoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\TiempoParcial.cs",
+              "RelativeDocumentMoniker": "Clases\\TiempoParcial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\TiempoParcial.cs",
+              "RelativeToolTip": "Clases\\TiempoParcial.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:11:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IObtenerVehiculo.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IObtenerVehiculo.cs",
               "RelativeDocumentMoniker": "Interfaces\\IObtenerVehiculo.cs",
@@ -392,11 +286,152 @@
               "RelativeToolTip": "Interfaces\\IObtenerVehiculo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T01:37:34.936Z"
+              "WhenOpened": "2025-02-21T01:37:34.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SistemaRuedas.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\SistemaRuedas.cs",
+              "RelativeDocumentMoniker": "Clases\\SistemaRuedas.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\SistemaRuedas.cs",
+              "RelativeToolTip": "Clases\\SistemaRuedas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:38:17.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RNVehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNVehiculo.cs",
+              "RelativeDocumentMoniker": "Clases\\RNVehiculo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNVehiculo.cs",
+              "RelativeToolTip": "Clases\\RNVehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:01:19.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RNCronometro.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNCronometro.cs",
+              "RelativeDocumentMoniker": "Clases\\RNCronometro.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNCronometro.cs",
+              "RelativeToolTip": "Clases\\RNCronometro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:46:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RNConductor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNConductor.cs",
+              "RelativeDocumentMoniker": "Clases\\RNConductor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\RNConductor.cs",
+              "RelativeToolTip": "Clases\\RNConductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T22:44:15.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kart.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Kart.cs",
+              "RelativeDocumentMoniker": "Clases\\Kart.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Kart.cs",
+              "RelativeToolTip": "Clases\\Kart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T20:39:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cuatrimoto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cuatrimoto.cs",
+              "RelativeDocumentMoniker": "Clases\\Cuatrimoto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Cuatrimoto.cs",
+              "RelativeToolTip": "Clases\\Cuatrimoto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:53:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Conductor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Conductor.cs",
+              "RelativeDocumentMoniker": "Clases\\Conductor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Conductor.cs",
+              "RelativeToolTip": "Clases\\Conductor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:35:55.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Carrera.cs",
+              "RelativeDocumentMoniker": "Clases\\Carrera.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Clases\\Carrera.cs",
+              "RelativeToolTip": "Clases\\Carrera.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:39:30.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Usings.cs",
+              "RelativeDocumentMoniker": "Usings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Usings.cs",
+              "RelativeToolTip": "Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:00:41.519Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
+              "Title": "ITiempoParcial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\ITiempoParcial.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITiempoParcial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\ITiempoParcial.cs",
+              "RelativeToolTip": "Interfaces\\ITiempoParcial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:11:26.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IValidaConductor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaConductor.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IValidaConductor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaConductor.cs",
+              "RelativeToolTip": "Interfaces\\IValidaConductor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:15:02.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IValidaID.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive - UPB\\Desktop\\OneDrive - UPB\\Vida\\Ingenier\u00EDa de sistemas UPB\\Semestre 6\\Arquitectura-de-Software\\Entregas\\arq_software-entrega_01\\Solid_Cronometro\\Interfaces\\IValidaID.cs",
               "RelativeDocumentMoniker": "Interfaces\\IValidaID.cs",

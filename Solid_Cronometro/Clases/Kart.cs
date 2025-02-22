@@ -2,7 +2,7 @@ using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
 {
-    internal abstract class Kart : Vehiculo
+    internal class Kart : Vehiculo
     {
         protected string numero;
         protected bool turbo;
