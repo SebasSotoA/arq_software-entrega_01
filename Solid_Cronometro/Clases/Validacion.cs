@@ -2,7 +2,7 @@ using System.Reflection.Metadata.Ecma335;
 using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases{
-    internal class Validacion : IValidaVehiculo, IValidaConductor, IValidaRuedas, IValidaTiempo, IValidaID
+    internal class Validacion : IValidaVehiculo, IValidaConductor, IValidaRuedas, IValidaID
     {
         //Validación conductor
         public bool ValidarNombre(string nombre) => !(string.IsNullOrEmpty(nombre) || string.IsNullOrWhiteSpace(nombre) || nombre.Length <= RNCronometro.long_min_nom);

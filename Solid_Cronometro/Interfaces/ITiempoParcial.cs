@@ -2,5 +2,8 @@
 {
     internal interface ITiempoParcial
     {
+        void IniciarParcial();
+        void FinalizarParcial();
+        string GetDuracion();
     }
 }

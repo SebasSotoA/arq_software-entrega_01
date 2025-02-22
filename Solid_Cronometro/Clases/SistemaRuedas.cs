@@ -1,5 +1,3 @@
-using System.Diagnostics;
-using System.Runtime.CompilerServices;
 using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
@@ -7,12 +5,13 @@ namespace Solid_Cronometro.Clases
     internal class SistemaRuedas : IObtenerPresionRuedas
     {
         protected List<float> presionRuedas;
-        protected IValidaRuedas validador_ruedas;
+        protected readonly IValidaRuedas validador_ruedas;
 
-        public SistemaRuedas(IValidaRuedas validador_ruedas)
+        public SistemaRuedas(IValidaRuedas validador_ruedas, List<float> presionInicial)
         {
             this.validador_ruedas = validador_ruedas;
-            this.presionRuedas = [0, 0, 0, 0];
+            // Asigna la lista validando
+            PresionRuedas = presionInicial ?? new List<float> { 0, 0, 0, 0 };
         }
 
         public List<float> PresionRuedas

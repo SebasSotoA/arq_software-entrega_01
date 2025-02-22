@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Solid_Cronometro.Interfaces;
+﻿using Solid_Cronometro.Interfaces;
 
 namespace Solid_Cronometro.Clases
 {
@@ -15,19 +9,19 @@ namespace Solid_Cronometro.Clases
         protected string marca;
         protected string color;
         protected readonly IValidaVehiculo validador_vehiculo;
-        protected SistemaRuedas sistemaRuedas;
+        protected readonly IObtenerPresionRuedas sistemaRuedas;
         protected readonly IValidaRuedas validador_ruedas;
 
-        public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo, List<float> presionesRuedas, IValidaRuedas validador_ruedas)
+        public Vehiculo(string placa, string modelo, string marca, string color, IValidaVehiculo validador_vehiculo,List<float> presionesRuedas,
+                IValidaRuedas validador_ruedas)
         {
             this.placa = placa;
             this.modelo = modelo;
             this.marca = marca;
             this.color = color;
             this.validador_vehiculo = validador_vehiculo;
-            this.sistemaRuedas = new SistemaRuedas(validador_ruedas); // Creamos un objeto sistemaRuedas, se inicializa como [0,0,0,0].
-            this.sistemaRuedas.PresionRuedas = presionesRuedas; // Añadimos las presiones por medio del setter, que tiene las validaciones implementadas.
             this.validador_ruedas = validador_ruedas;
+            this.sistemaRuedas = new SistemaRuedas(validador_ruedas, presionesRuedas); //Crea un sistema de ruedas con la lista
         }
 
         public string Placa
@@ -39,15 +33,14 @@ namespace Solid_Cronometro.Clases
         public string Color
         { get => color; set => color = value; }
 
-        public virtual SistemaRuedas SistemaRuedas
-        {get => sistemaRuedas; set => sistemaRuedas = value;}   
-
         public string GetPlaca() => placa;
         public string GetModelo() => modelo;
         public string GetMarca() => marca;
         public string GetColor() => color;
-        public virtual SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
 
-
+        public virtual SistemaRuedas GetSistemaRuedas()
+        {
+            return (SistemaRuedas)sistemaRuedas;
+        }
     }
 }

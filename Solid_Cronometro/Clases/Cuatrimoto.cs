@@ -18,8 +18,5 @@ namespace Solid_Cronometro.Clases
         {get => trac_4x4; set => trac_4x4 = value;}
         public bool Suspension
         {get => suspension; set => suspension = value;}
-        public override SistemaRuedas SistemaRuedas
-        {get => sistemaRuedas; set => sistemaRuedas = value;} 
-        public override SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
     }
 }

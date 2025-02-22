@@ -8,5 +8,10 @@ namespace Solid_Cronometro.Interfaces
 {
     internal interface IVuelta
     {
+        void IniciarVuelta();
+        void FinalizarVuelta();
+        void AddTiempoParcial(ITiempoParcial tp);
+        List<ITiempoParcial> GetTiemposParciales();
+        string GetTiempoFinalFormateado();
     }
 }

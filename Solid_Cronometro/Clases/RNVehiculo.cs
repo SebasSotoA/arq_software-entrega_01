@@ -10,7 +10,5 @@ namespace Solid_Cronometro.Clases
         internal static readonly int long_placa = 6;
         internal static readonly int long_mod_min = 2;
         internal static readonly int long_marca_min = 2;
-
-        
     }
 }

@@ -12,5 +12,6 @@ namespace Solid_Cronometro.Interfaces
         void FinalizarCarrera();
         void AddVuelta(IVuelta vuelta);
         List<IVuelta> GetVueltas();
+        string GetTiempoFinalFormateado();
     }
 }

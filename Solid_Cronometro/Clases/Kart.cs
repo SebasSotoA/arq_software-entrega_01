@@ -18,8 +18,6 @@ namespace Solid_Cronometro.Clases
         {get => numero; set => numero = value;}
         public bool Turbo
         {get => turbo; set => turbo = value;}
-        public override SistemaRuedas SistemaRuedas
-        {get => sistemaRuedas; set => sistemaRuedas = value;} 
-        public override SistemaRuedas GetSistemaRuedas() => sistemaRuedas;
+ 
     }
 }
